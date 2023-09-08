@@ -6,26 +6,27 @@
 BOOK MANAGEMENT SYSTEM
 
 ### DESCRIPTION
-This is a comprehensive Book Management System (BMS) designed to help book enthusiasts, librarians, and collectors efficiently organize and manage their book collections. With a user-friendly interface and robust features, Book Library Pro offers an intuitive way to catalog, search, and track books of all genres and formats.
+This is a comprehensive Book Management System (BMS) designed to help book enthusiasts, librarians, and collectors efficiently organize and manage their book collections. 
 
 
 
 Here is an overview of how the interface works:
 
 1. Book Cataloging: 
-    <strong>Description:</strong> Users can easily add new books to the system by providing essential book details, including title, author, ISBN, genre, publication date, and a brief summary.
+
+    <strong>Description:</strong> Users can easily add new books to the system by providing book tile and the author.
     
     <strong>Process:</strong> To add a book, users access the "Add Book" feature, where they input the book's information into a user-friendly form. The system validates the data and stores it in the database.
 
 2. Search Functionality: 
 
-    <strong>Description:</strong> The BMS includes robust search capabilities, enabling users to find specific books quickly based on various criteria, such as title, author, genre, or ISBN.
+    <strong>Description:</strong> The BMS includes robust search capabilities, enabling users to find specific books quickly based on title or auhtor.
 
-    <strong>Process:</strong> To search for a book, users enter their search criteria into a dedicated search bar. The system returns matching results, making it easy to locate specific books within the collection.
+    <strong>Process:</strong> To search for a book, users types their search criteria. The system returns matching results, making it easy to locate specific books within the collection.
 
 3. Display Books: 
 
-    <strong>Description:</strong> Users have access to a comprehensive list of all the books in the collection, which can be sorted and filtered as needed.
+    <strong>Description:</strong> Users have access to a comprehensive list of all the books in the collection.
 
     <strong>Process:</strong> Users can view the complete catalog of books by selecting the "Display All Books" option. The system presents the books in a user-friendly interface, allowing users to scroll through and explore the collection.
 
