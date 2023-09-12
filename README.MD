@@ -14,7 +14,7 @@ Here is an overview of how the interface works:
 
 1. Book Cataloging: 
 
-    <strong>Description:</strong> Users can easily add new books to the system by providing book tile and the author.
+    <strong>Description:</strong> Users can easily add new books to the system by providing book title and the author.
     
     <strong>Process:</strong> To add a book, users access the "Add Book" feature, where they input the book's information into a user-friendly form. The system validates the data and stores it in the database.
 
@@ -97,7 +97,7 @@ Navigate to <strong>env.py</strong> file and import base
 
 
 ### Application
-To run this interface, use the following commands in <strong>Alchemy</strong> folder:
+To run this interface, use the following commands in main folder:
 1. Run <strong>python -m SQL.seed</strong>
 To seed your database with random entries
 
@@ -111,7 +111,7 @@ This will display a menu that allows you to interact with the system.
 ## OWNERSHIP
 
 ### AUTHOR
-The owner of this project is Dorine Watene.
+The owner of this project is Dorine Watene Manyara.
 
 ### LICENSE 
 This project is licensed under the MIT License. See <a href='https://choosealicense.com/licenses/mit/'>MIT</a> file for details.
